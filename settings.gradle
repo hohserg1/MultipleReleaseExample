@@ -1,0 +1,5 @@
+rootProject.name = 'MultipleReleaseExample'
+
+include 'Common'
+include 'ForLib1'
+include 'ForLib2'
